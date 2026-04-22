@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+wandb/
+.env
+models/best_model.pt
+data/raw/
+data/processed/
+node_modules/
+frontend/build/
+*.egg-info/
+.DS_Store
